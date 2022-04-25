@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70ccb38f-8d83-4e15-96eb-04ba7ac16a2d": {
+      "ProjectGuid": "70ccb38f-8d83-4e15-96eb-04ba7ac16a2d",
+      "DisplayName": "MusicBrands",
+      "ColorIndex": 0
+    },
+    "a008bffd-0ba2-4ae2-b31c-e8fecb845dd7": {
+      "ProjectGuid": "a008bffd-0ba2-4ae2-b31c-e8fecb845dd7",
+      "DisplayName": "MusicBands.DAL",
+      "ColorIndex": 1
+    },
+    "bee6bdfa-dbee-45a5-a15e-029393e2745f": {
+      "ProjectGuid": "bee6bdfa-dbee-45a5-a15e-029393e2745f",
+      "DisplayName": "MusicBands.Core",
+      "ColorIndex": 2
+    },
+    "7a72cafc-2b32-4f47-8b3f-03b2e4af5d18": {
+      "ProjectGuid": "7a72cafc-2b32-4f47-8b3f-03b2e4af5d18",
+      "DisplayName": "MusicBands.Services",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
